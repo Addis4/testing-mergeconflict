@@ -1,6 +1,5 @@
-My name is Addi
-I am 21 years old
-I am from Bihar
-I am a graduate
-I work in Knoldus
-my project is pre-monr
+My name is Kaushik
+I am from Assam
+I have graduated from Jorhat engineering College
+Currently I am an interen in Knoldus
+My project is pre-monr
