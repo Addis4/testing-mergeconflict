@@ -1,5 +1,14 @@
+<<<<<< patch-1
+My name is shahfahed
+I am from Agra
+I am a graduate
+I work in Knoldus
+my project is pre-monr
+I have done my Btech from GLA
+=======
 My name is Kaushik
 I am from Assam
 I have graduated from Jorhat engineering College
 Currently I am an interen in Knoldus
 My project is pre-monr
+>>>>>> master
